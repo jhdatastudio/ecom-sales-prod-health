@@ -45,4 +45,4 @@ This demo uses real-world transactional data from the UCI Machine Learning Repos
 
 JH Data Studio offers tailored data consulting services across AI, analytics, and automation — empowering businesses to make smarter decisions faster.
 
-👉 Visit jhdatastudio.eu to learn more or book a discovery call.
+👉 Visit jhdatastudio.com to learn more or book a discovery call.
